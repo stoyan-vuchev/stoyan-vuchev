@@ -1,28 +1,49 @@
-<h1 align="center">Hi 👋, I'm Stoyan</h1>
-<h3 align="center">A passionate self-taught native Android apps developer from Bulgaria</h3>
+<h1 align="center">Hi! 👋🏼 I'm Stoyan</h1>
 
-<p align="left"> <a href="https://twitter.com/stoyan_vuchev" target="blank"><img src="https://img.shields.io/twitter/follow/stoyan_vuchev?logo=twitter&style=for-the-badge" alt="stoyan_vuchev" /></a> </p>
+###
 
-- 🔭 I’m currently working on **Assertive UI**
+<h4 align="center">A passionate self-taught native Android apps developer from Bulgaria.</h4>
 
-- 🌱 I’m currently learning **Compose Multiplatform**
+###
 
-- 💬 Ask me about **Kotlin, Android, Jetpack Compose, etc.**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stoyan-vuchev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyan-vuchev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 📫 How to reach me **contact@stoyanvuchev.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stoyan_vuchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stoyan_vuchev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stoyan-vuchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stoyan-vuchev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17817626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17817626" height="30" width="40" /></a>
-<a href="https://instagram.com/_stoyan_vuchev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_stoyan_vuchev_" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoyan-vuchev&show_icons=true&locale=en&layout=compact" alt="stoyan-vuchev" /></p>
+<div align="center">
+  <a href="https://instagram.com/_stoyan_vuchev_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/17817626" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/stoyan_vuchev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
+  </a>
+  <a href="https://linkedin.com/in/stoyan-vuchev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stoyan-vuchev&show_icons=true&locale=en" alt="stoyan-vuchev" /></p>
-
+###
